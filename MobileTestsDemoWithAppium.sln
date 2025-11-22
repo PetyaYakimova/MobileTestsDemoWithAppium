@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobileTestsDemoWithAppium", "MobileTestsDemoWithAppium\MobileTestsDemoWithAppium.csproj", "{CBE4DA78-C00B-DF37-9AD7-2B0EA01F2F38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Dev|Any CPU = Dev|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Staging|Any CPU = Staging|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBE4DA78-C00B-DF37-9AD7-2B0EA01F2F38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBE4DA78-C00B-DF37-9AD7-2B0EA01F2F38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBE4DA78-C00B-DF37-9AD7-2B0EA01F2F38}.Dev|Any CPU.ActiveCfg = Dev|Any CPU
+		{CBE4DA78-C00B-DF37-9AD7-2B0EA01F2F38}.Dev|Any CPU.Build.0 = Dev|Any CPU
+		{CBE4DA78-C00B-DF37-9AD7-2B0EA01F2F38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBE4DA78-C00B-DF37-9AD7-2B0EA01F2F38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBE4DA78-C00B-DF37-9AD7-2B0EA01F2F38}.Staging|Any CPU.ActiveCfg = Staging|Any CPU
+		{CBE4DA78-C00B-DF37-9AD7-2B0EA01F2F38}.Staging|Any CPU.Build.0 = Staging|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7D49CF7-7798-4D5A-A23F-2B0839D03A04}
+	EndGlobalSection
+EndGlobal
